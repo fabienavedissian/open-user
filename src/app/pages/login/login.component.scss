@@ -1,0 +1,19 @@
+.login {
+    &-section {
+        display: flex;
+        justify-content: center;
+        margin-top: 100px;
+    }
+}
+
+.mt-2 {
+    margin-top: 20px;
+}
+
+.feedback {
+    display: block;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}

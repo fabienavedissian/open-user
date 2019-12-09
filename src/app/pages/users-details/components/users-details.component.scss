@@ -1,0 +1,23 @@
+.img-fluid {
+    width: 300px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 100px auto 50px;
+    width: 300px;
+
+    &-title {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    &-text {
+        padding: 0 5px;
+    }
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    padding: 5px 0;
+}
